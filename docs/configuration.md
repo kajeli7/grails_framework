@@ -1,0 +1,4 @@
+- grails-app/conf/application.yml est un fichier de configuration 
+  - scope du contrôlleur
+  - dataSource: lien vers base de données en fonction de l'environnement
+- 
