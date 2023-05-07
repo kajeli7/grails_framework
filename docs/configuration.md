@@ -1,4 +1,7 @@
 - grails-app/conf/application.yml est un fichier de configuration 
   - scope du contrôlleur
   - dataSource: lien vers base de données en fonction de l'environnement
-- 
+- Pour accèder à la base de données:
+  - http://localhost:8081/h2-console
+  - JDBC URL: jdbc:h2:mem:devDb
+  - USER Name: sa

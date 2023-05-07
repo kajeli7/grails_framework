@@ -3,3 +3,5 @@
 2. Définition des classes
    - ces classes vont allées créer les tables en base de données
 - ![img.png](img.png)
+3. Contraintes
+4. Scaffolding
